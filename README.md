@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asonibare
+- 👋 Hi, I’m @Asonibare Olaoluwa Olamide
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on programming, networking and security
