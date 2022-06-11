@@ -66,7 +66,7 @@ function filled() {
 
 function win() {
     if((pieces[0] != undefined && pieces[0] == pieces[1] && pieces[0] == pieces[2])){
-        return "playerv"+ply[no];;
+        return "player"+ply[no];;
     }
     else if((pieces[0] != undefined && pieces[0] == pieces[3] && pieces[0] == pieces[6])){
         return "player "+ply[no];;
