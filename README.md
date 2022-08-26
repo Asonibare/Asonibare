@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asonibare Olaoluwa Olamide
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning programming
+- 🌱 I’m a computer programmer
 - 💞️ I’m looking to collaborate on programming, networking and security
 - 📫 How to reach me numberlucky75@gmail.com
 
