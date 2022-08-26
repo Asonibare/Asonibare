@@ -1,4 +1,10 @@
 { 
+    "builds": [
+        {
+            "src": "./test/index.py",
+            "use": "@vercel/python"
+        }
+    ],
     "redirects":[ 
          { 
             "source": "/", 
